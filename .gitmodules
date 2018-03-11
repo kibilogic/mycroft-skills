@@ -411,4 +411,4 @@
 	url = https://github.com/forslund/spotify-skill.git
 [submodule "kibilogic-whoareyou-skill"]
 	path = kibilogic-whoareyou-skill
-	url = https://github.com/kibilogic/kibilogic-whoareyou-skill
+	url = https://github.com/kibilogic/kibilogic-whoareyou-skill.git
